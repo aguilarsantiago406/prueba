@@ -1,4 +1,4 @@
-import Page from "./dark/home.jsx"
+import Page from "./page/home.jsx";
 
 function App() {
   return (
