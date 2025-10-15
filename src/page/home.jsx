@@ -1,5 +1,5 @@
 import { useTheme } from "../dark/dark.jsx"; 
-import Header from '../components/header.jsx';
+import { Header } from '../components/header.jsx';
 import { Hero } from "../components/hero.jsx";
 import { TopHits } from "../components/tophits.jsx";
 import { Genres } from "../components/generos.jsx";
