@@ -1,11 +1,11 @@
 import { useTheme } from "../dark/dark.jsx"; 
 import Header from '../components/header.jsx';
-import { Hero } from "../Components/hero.jsx";
+import { Hero } from "../components/hero.jsx";
 import { TopHits } from "../components/tophits.jsx";
-import { Genres } from "../Components/generos.jsx";
+import { Genres } from "../components/generos.jsx";
 import { FeaturedArtists } from "../components/artistas.jsx";
 import { FinalCTA } from "../components/finalcta.jsx";
-import { Footer } from "../Components/footer.jsx";
+import { Footer } from "../components/footer.jsx";
 import "../Styles/estilos.css";
 
 const Page = () => {
